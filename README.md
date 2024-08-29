@@ -1,0 +1,1 @@
+In one click, approve a post, approve its author, give a predefined flair to the author. Perfect for Verification Process.
